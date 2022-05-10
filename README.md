@@ -45,9 +45,9 @@ I am a young man starting his adventure with programming. I am looking for new c
 </p>
 
 <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="szymonpoltorak" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="szymonpoltorak" />
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=szymonpoltorak&show_icons=true&locale=en&theme=github_dark" alt="szymonpoltorak" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=szymonpoltorak&show_icons=true&locale=en&theme=github_dark" alt="szymonpoltorak" />
 </p>
