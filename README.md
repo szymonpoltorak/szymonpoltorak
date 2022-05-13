@@ -12,6 +12,16 @@ I am a young man starting his adventure with programming. I am looking for new c
 - 😄 Pronouns: **He/His**,
 - ⚡ Fun fact **I love listening to game and movie soundtracks**.
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://twitter.com/ptorak1"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> 
+    </a>
+    <a href="https://www.linkedin.com/in/szymon-p%C3%B3%C5%82torak-25058523a/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
+    </a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
