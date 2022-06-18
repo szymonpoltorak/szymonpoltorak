@@ -9,7 +9,6 @@ I am a young man starting his adventure with programming. I am looking for new c
 - 🌱 I’m currently learning **Java, SQL, JavaFX, Markdown**,
 - 👯 I’m looking to collaborate with **new people**,
 - 🥅 2022 Goals: Learn **Powershell, CSS, HTML, MySQL, Python and C#**,
-- 😄 Pronouns: **He/His**,
 - ⚡ Fun fact **I love listening to game and movie soundtracks**.
 
 <h3 align="center">Connect with me:</h3>
