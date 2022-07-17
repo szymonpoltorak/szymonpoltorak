@@ -6,9 +6,9 @@
 I am a young man starting his adventure with programming. I am looking for new challenges and opportunities to earn more and more experience. I am also a student of Applied Computer Science on Warsaw University of Technology and a member of academic circle focused on computer science.
 </h3>
 
-- 🌱 I’m currently learning **Java, SQL, JavaFX, Markdown**,
+- 🌱 I’m currently learning **CSS, SQL, HTML, JavaScript, Python**,
 - 👯 I’m looking to collaborate with **new people**,
-- 🥅 2022 Goals: Learn **Powershell, CSS, HTML, MySQL, Python and C#**,
+- 🥅 2022 Goals: Learn **JavaScript, CSS, HTML, MySQL, Python and C#**,
 - ⚡ Fun fact **I love listening to game and movie soundtracks**.
 
 <h3 align="center">Connect with me:</h3>
