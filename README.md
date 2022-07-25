@@ -8,7 +8,7 @@ I am a young man starting his adventure with programming. I am looking for new c
 
 - 🌱 I’m currently learning **CSS, SQL, HTML, JavaScript, Python**,
 - 👯 I’m looking to collaborate with **new people**,
-- 🥅 2022 Goals: Learn **JavaScript, CSS, TailWind, Spring, Sass, Bootstrap, HTML, SQL, Python and C#**,
+- 🥅 2022 Goals: Learn **JavaScript, CSS, Spring, Sass, Bootstrap, HTML, SQL, Python and C#**,
 - ⚡ Fun fact **I love listening to game and movie soundtracks**.
 
 <h3 align="center">Connect with me:</h3>
