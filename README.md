@@ -34,6 +34,9 @@ I am a young man starting his adventure with programming. I am looking for new c
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java script" width="40" height="40"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="type script" width="40" height="40"/>
+    </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     </a>
