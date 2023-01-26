@@ -6,9 +6,9 @@
 I am a young man starting his adventure with programming. I am looking for new challenges and opportunities to earn more and more experience. I am also a student of Applied Computer Science on Warsaw University of Technology and a member of academic circle focused on computer science.
 </h3>
 
-- 🌱 I’m currently learning **CSS, SQL, HTML, JavaScript, Python**,
+- 🌱 I’m currently learning **Java, Spring, Angular and TypeScript**,
 - 👯 I’m looking to collaborate with **new people**,
-- 🥅 2022 Goals: Learn **JavaScript, CSS, Spring, Sass, Bootstrap, HTML, SQL, Python and C#**,
+- 🥅 2023 Goals: Learn **TypeScript, CSS, Spring, Angular, TailWind Css** and Create new projects!,
 - ⚡ Fun fact **I love listening to game and movie soundtracks**.
 
 <h3 align="center">Connect with me:</h3>
@@ -16,6 +16,9 @@ I am a young man starting his adventure with programming. I am looking for new c
 <p align="center">
     <a href="https://www.linkedin.com/in/szymon-poltorak/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
+    </a>
+    <a href="https://leetcode.com/RazePL/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40" />
     </a>
 </p>
 
