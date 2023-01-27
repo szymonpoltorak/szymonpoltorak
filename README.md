@@ -67,7 +67,7 @@ I am a young man starting his adventure with programming. I am looking for new c
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=algolia" alt="szymonpoltorak" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=algolia&hide=jupyter%20notebook" alt="szymonpoltorak" />
 </p>
 
 <p>
