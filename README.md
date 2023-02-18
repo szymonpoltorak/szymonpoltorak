@@ -20,6 +20,9 @@ I am a young man starting his adventure with programming. I am looking for new c
     <a href="https://leetcode.com/RazePL/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40" />
     </a>
+    <a href="https://www.hackerrank.com/szymonpotorak">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="40" height="40" />
+    </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
