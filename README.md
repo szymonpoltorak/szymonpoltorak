@@ -6,9 +6,9 @@
 I am a young man starting his adventure with programming. I am looking for new challenges and opportunities to earn more and more experience. I am also a student of Applied Computer Science on Warsaw University of Technology and a member of academic circle focused on computer science.
 </h3>
 
-- 🌱 I’m currently learning **Java, Spring, Angular and TypeScript**,
+- 🌱 I’m currently learning **Spring Clound, Microservices, RabbitMQ, Kafka, Terraform**,
 - 👯 I’m looking to collaborate with **new people**,
-- 🥅 2023 Goals: Learn **TypeScript, CSS, Spring, Angular, TailWind Css** and Create new projects!,
+- 🥅 2024 Goals: Learn **Kafka, RabbitMQ, Terraform, Microfrontend, Microservices Basics, Event Driven Architecture** and Create new projects!,
 - ⚡ Fun fact **I love listening to game and movie soundtracks**.
 
 <h3 align="center">Connect with me:</h3>
@@ -19,9 +19,6 @@ I am a young man starting his adventure with programming. I am looking for new c
     </a>
     <a href="https://leetcode.com/RazePL/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40" />
-    </a>
-    <a href="https://www.hackerrank.com/szymonpotorak">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="40" height="40" />
     </a>
 </p>
 
@@ -69,11 +66,19 @@ I am a young man starting his adventure with programming. I am looking for new c
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=algolia&hide=jupyter%20notebook,TeX" alt="szymonpoltorak" />
-</p>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=algolia&hide=jupyter%20notebook,TeX" alt="szymonpoltorak" />
+</div>
 
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=szymonpoltorak&show_icons=true&locale=en&theme=algolia" alt="szymonpoltorak"
+<p></p>
+    
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=szymonpoltorak&show_icons=true&locale=en&theme=algolia" alt="szymonpoltorak"
     width="450" />
-</p>
+</div>
+
+<p></p>
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymonpoltorak&theme=algolia" alt="szymonpoltorak" />
+</div>
