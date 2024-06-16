@@ -66,19 +66,11 @@ I am a young man starting his adventure with programming. I am looking for new c
     </a>
 </p>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=algolia&hide=jupyter%20notebook,TeX" alt="szymonpoltorak" />
+<div align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonpoltorak&show_icons=true&locale=en&layout=compact&theme=algolia&hide=jupyter%20notebook,TeX" alt="szymonpoltorak" height="180" width="400" />
 </div>
-
-<p></p>
     
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=szymonpoltorak&show_icons=true&locale=en&theme=algolia" alt="szymonpoltorak"
-    width="450" />
+<div align="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=szymonpoltorak&show_icons=true&locale=en&theme=algolia" alt="szymonpoltorak" height="180" width="400" />
 </div>
 
-<p></p>
-
-<div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymonpoltorak&theme=algolia" alt="szymonpoltorak" />
-</div>
