@@ -3,13 +3,7 @@
 </h1>
 
 <h3 align="left">
-I am a young man starting his adventure with programming. I am looking for new challenges and opportunities to earn more and more experience. I am also a student of Applied Computer Science on Warsaw University of Technology and a member of academic circle focused on computer science.
-</h3>
-
-- 🌱 I’m currently learning **Spring Clound, Microservices, RabbitMQ, Kafka, Terraform**,
-- 👯 I’m looking to collaborate with **new people**,
-- 🥅 2024 Goals: Learn **Kafka, RabbitMQ, Terraform, Microfrontend, Microservices Basics, Event Driven Architecture** and Create new projects!,
-- ⚡ Fun fact **I love listening to game and movie soundtracks**.
+I'm an experienced programmer with almost 2 years of hands-on experience in software development. I’m currently studying Applied Computer Science at the Warsaw University of Technology, where I’m also a member of an academic circle focused on computer science. I’ve worked on various projects involving modern technologies like Spring Cloud, Microservices, RabbitMQ, and Kafka. I'm always eager to take on new challenges and continue expanding my skill set
 
 <h3 align="center">Connect with me:</h3>
 
